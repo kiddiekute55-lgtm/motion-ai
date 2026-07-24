@@ -1,0 +1,6 @@
+{
+  "name": "MotionAI",
+  "description": "AI Image-to-Motion animation studio to convert any photo or art into realistic video animations with custom camera, face, and particle motion effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
